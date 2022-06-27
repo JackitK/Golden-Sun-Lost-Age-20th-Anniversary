@@ -7,6 +7,7 @@ Golden Sun: The Lost Age with some added quality of life features for a more fun
 ### Party members start off the adventure with access to more Psynergy without items and regardless of class
 - Felix now starts the adventure with Tremor.
 - Jenna starts with two new utility Psynergy... Sunshine, which acts like Growth, and Thermal, which functions like Whirlwind...
+- Thermal is tied to her default class, though may also be available to certain other wind/fire aligned classes...
 - In addtion, she now has access to Avoid by default.
 - Sheba now has access to Cyclone and Teleport from the start
 - She also gets the new Psynergy Draft, which functions like Whirlwind outside of battle.  
