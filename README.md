@@ -29,3 +29,9 @@ Golden Sun: The Lost Age with some added quality of life features for a more fun
 - If Ivan is in the front of the party, the Linked Battle theme will play.
 - If Mia is in the front of the party, Saturos's Theme will play.
 - It is worth noting that this patch will overwrite all other battle music, including those in major fights.
+
+## FAQ
+### Applying the patch
+- Download the patch.
+- Have your copy of Golden Sun: The Lost Age for the GBA ready. (Make sure you use a clean copy, patching something already patched is not recommended.)
+- Use Lunar IPS to patch it to your copy of Golden Sun.
