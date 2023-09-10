@@ -13,7 +13,7 @@ Golden Sun: The Lost Age with some added quality of life features for a more fun
 - She also gets the new Psynergy Draft, which functions like Whirlwind outside of battle.  
 - Teleport allows the party to have fast travel like access throughout the entire adventure.
 - Piers has access to Chill and Rain, utility exclusive equivalents of Frost and Douse respectfully, no matter his class.
-- Isaac's party has Growth, Catch, Force, Lift, Carry, Draft, Cyclone, Shower, Chill, and Cloak regardless of class. Cloak functioning like Avoid in this mod.
+- Isaac's party has Growth, Catch, Force, Lift, Carry, Draft, Cyclone, Rain, Chill, and Cloak regardless of class. Cloak functioning like Avoid in this mod.
 ## Brand new equipment replaces the Tremor Bit, Cyclone Chip, and Teleport Lapis as you now have access to those skills by default...
 - Tremor Bit has been replaced with the Gaia Boots, brand new equipment to boost Earth Power.
 - Cyclone Chip has been replaced with the Tornado Boots, brand new equipment to boost Wind Resistance.
